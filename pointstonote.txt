@@ -1,0 +1,8 @@
+Algorithm: 
+    1] participants must have a wallet 
+    2] a participants can transfer ether more than one time but the transferred ether must be 2 ether. 
+    3] as a participant will transfer ether it's address will be registered. 
+    4] manager will have full control over the lottery. 
+    5] the contract will be reset once a round is completed. 
+
+
